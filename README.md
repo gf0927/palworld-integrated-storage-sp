@@ -53,6 +53,8 @@ See [LICENSE](LICENSE) for details.
 
 If this mod helped you and you'd like to support its maintenance:
 
-![Support](assets/donate.png)
+<p align="center">
+  <img src="assets/donate.png" width="200">
+</p>
 
 Donations are completely optional.
